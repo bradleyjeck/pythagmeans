@@ -1,0 +1,9 @@
+Package: pythagmeans
+Type: Package
+Title: Pythagorean Means
+Version: 0.0.1
+Date: 2015-06-16
+Author: Bradley J. Eck
+Maintainer: Bradley Eck <brad@bradeck.net>
+Description: Compute the three classical Pythagorean means: arithmetic, geometric, and harmonic.
+License: MIT
